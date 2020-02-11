@@ -1,0 +1,25 @@
+{
+  "name": "nodepg",
+  "version": "1.0.0",
+  "description": "Repo for integrating node.js and postgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "villamil_prob1": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crizronell/nodepg.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crizronell/nodepg/issues"
+  },
+  "homepage": "https://github.com/crizronell/nodepg#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "pg": "^7.18.1"
+  }
+}

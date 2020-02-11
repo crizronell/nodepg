@@ -1,2 +1,2 @@
 # nodepg
-Repo for integrating node.js and posgreSQL
+Repo for integrating node.js and postgreSQL
